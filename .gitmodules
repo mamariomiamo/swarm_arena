@@ -2,3 +2,7 @@
 	path = planner/plan_manage/include/corridor_gen
 	url = git@github.com:mamariomiamo/corridor_gen.git
 	branch = main
+[submodule "simulator/map_gen"]
+	path = simulator/map_gen
+	url = git@github.com:mamariomiamo/map_gen.git
+	branch = master
